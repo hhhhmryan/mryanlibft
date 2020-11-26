@@ -1,6 +1,6 @@
 # mryanlibft
 Libft Project October 2020
 
-Actual Status : Finished
-Result : 115%
+Actual Status : Finished\n
+Result : 115%\n
 Observations : 
